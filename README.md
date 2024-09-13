@@ -64,7 +64,7 @@ Researched and developed a robust machine learning model using accelerometer dat
 
 -------------------------------------------------------------------------------------------------------
 **Check out 
-✨[`@HemanandhiniAyappan`](https://github.com/arjun-mayan)✨**
+✨[`@arjunmayan`](https://github.com/arjun-mayan)✨**
 
 
 Projects: 
